@@ -1,2 +1,2 @@
-// links to all versions (1 + 2)
+// links to download ll versions (1 + 2) from SharePoint
 // links to takeaways?
